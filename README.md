@@ -41,3 +41,9 @@ Software Development / NLP
    - **Output**: The model generates Python code based on the prompt, which is then displayed in the Gradio interface.
 
 ---
+
+
+### Sample output :
+
+![image](https://github.com/user-attachments/assets/eb434e27-fc47-4b2f-b571-1a8d740cbd01)
+
